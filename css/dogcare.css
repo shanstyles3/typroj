@@ -1,0 +1,59 @@
+@charset "utf-8";
+body {
+	background-color: #1d2120;
+	color: #F5F5F5;
+	background-size: 100% auto;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+	font-color: #FFFFFF;
+}
+.navbar-brand {
+	font-family: sofia;
+	font-style: normal;
+	font-weight: 400;
+}
+body h1 {
+	background-color: #1d2120;
+	font-family: sofia;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 50px;
+	text-align: center;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+body h2 {
+	background-color: #1d2120;
+	font-family: sofia;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 50px;
+	text-align: left;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+.panel-body{
+	background-color: #ba9077;
+}
+.panel .panel-default{
+	margin-left: 10px;
+}
+/*body img {
+	width: 100%;
+}*/
+.thumbnail {
+	background-color: #ba9077;
+	margin-top: 10px;
+}
+footer {
+	padding-left: 2px;
+	background-color: #bcd5d1;
+	color: #636363;
+	width: 100%;
+	border-radius: 4px;
+	font-size: large;
+}
+.form-group input[type=text]{
+	 color: #000000;
+}

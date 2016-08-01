@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+	background-color: #1d2120;
+	color: #F5F5F5;
+	background-size: 100% auto;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+	font-color: #FFFFFF;
+}
+.navbar-brand {
+	font-family: sofia;
+	font-style: normal;
+	font-weight: 400;
+}
+form {
+	 margin-left: 4em;
+}

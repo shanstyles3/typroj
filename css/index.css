@@ -1,0 +1,40 @@
+@charset "utf-8";
+.navbar-brand {
+	font-family: sofia;
+	font-style: normal;
+	font-weight: 400;
+}
+header{
+	text-align: right;
+	width: 100%;
+	border-radius: 4px;
+}
+header a{
+	font-size: 1.5em;
+ 	padding:5px
+}
+body {
+	background-color: #1d2120;
+	color: #F5F5F5;
+	background-size: 100% auto;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+.container-fluid #carousel1 {
+	margin-bottom: 2%;
+}
+
+footer {
+	padding-left: 2%;
+	background-color: #bcd5d1;
+	color: #636363;
+	width: 100%;
+	border-radius: 4px;
+	font-size: large;
+}
+.thumbnail {
+	background-color: #ba9077;
+}
+.image-fill {
+	width: 100%;
+}
